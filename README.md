@@ -1,6 +1,4 @@
-<img src="https://s3.amazonaws.com/kommunicate.io/Header.jpg" />
-
-# [Kommunicate ](https://www.kommunicate.io/?utm_source=github&utm_medium=readme&utm_campaign=web)Live Chat Plugin and Chatbot Integration For Web
+# [Kommunicate ](https://www.kommunicate.io/?utm_source=github&utm_medium=readme&utm_campaign=web)Live Chat Plugin and Chatbot Integration For Healthcare
 
 
 ## Overview
@@ -19,6 +17,9 @@ Healthcare chatbot is an AI-powered software application designed to interact wi
 Create a free account on [Kommunicate](https://dashboard.kommunicate.io/signup) and navigate to the [Bots section](https://dashboard.kommunicate.io/bots/bot-integrations). 
 
 ### Step 2: Create question and answer of the chatbot 
+
+![Kompose](https://user-images.githubusercontent.com/32258004/95324271-1808c080-08bd-11eb-9bed-768e87977648.png)
+
 
 
 
