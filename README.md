@@ -1,4 +1,4 @@
-# [Kommunicate ](https://www.kommunicate.io/?utm_source=github&utm_medium=readme&utm_campaign=web)Live Chat Plugin and Chatbot Integration For Healthcare
+# [Kommunicate ](https://www.kommunicate.io/?utm_source=github&utm_medium=readme&utm_campaign=web)AI Chatbot For Healthcare
 
 
 ## Overview
@@ -31,6 +31,13 @@ You can install the Kommunicate chat widget on your website by adding a code sni
 
 
 ## Other Features
+**Appointment Scheduling:** Quickly respond to generic user queries using Quick Replies. Easily create and manage templated messages from your dashboard.
+
+**Delivering prescriptions and lab test reports:** Real-time sharing and downloading of medication prescriptions and lab test reports on WhatsApp, Facebook, Instagram, Telegram, and more with Omnichannel Healthcare chatbot.
+
+**Telemedicine:** Telemedicine bot for digital patient consultation, remote patient monitoring, and secured storage of personal data, all using a single platform made specifically for the healthcare industry.
+
+**Reminders and Notifications:** Reduce no-shows for appointment bookings with reminders and notify patients to take medicines at prescribed hours. Keep them informed of new offers and updates.
 
 **Live chat widget:**  Make it easier for your visitors and users to reach you with an instant website and in-app support through chat. The widget is highly customizable. 
 
@@ -50,13 +57,6 @@ You can install the Kommunicate chat widget on your website by adding a code sni
 
 **Smart Rich Messaging:** Leverage rich messages using buttons, cards, carousels, forms or lists to provide an exquisite support chat experience to your customers.
 
-**Appointment Scheduling:** Quickly respond to generic user queries using Quick Replies. Easily create and manage templated messages from your dashboard.
-
-**Delivering prescriptions and lab test reports:** Real-time sharing and downloading of medication prescriptions and lab test reports on WhatsApp, Facebook, Instagram, Telegram, and more with Omnichannel Healthcare chatbot.
-
-**Telemedicine:** Telemedicine bot for digital patient consultation, remote patient monitoring, and secured storage of personal data, all using a single platform made specifically for the healthcare industry.
-
-**Reminders and Notifications:** Reduce no-shows for appointment bookings with reminders and notify patients to take medicines at prescribed hours. Keep them informed of new offers and updates.
 
 
 ### Example :
