@@ -16,9 +16,11 @@ Healthcare chatbot is an AI-powered software application designed to interact wi
 ### Step 1: Create a free Kommunicate account
 Create a free account on [Kommunicate](https://dashboard.kommunicate.io/signup) and navigate to the [Bots section](https://dashboard.kommunicate.io/bots/bot-integrations). 
 
-### Step 2: Create question and answer of the chatbot 
+### Step 2: Create question and answer of the chatbot
 
-![Kompose](https://user-images.githubusercontent.com/32258004/95324271-1808c080-08bd-11eb-9bed-768e87977648.png)
+
+
+<img align="center" src="https://github.com/Kommunicate-io/Healthcare-Chatbot/blob/master/screenshot-dashboard.kommunicate.io-2023.05.30-14_11_25.png?raw=true" height="520"/>
 
 
 
