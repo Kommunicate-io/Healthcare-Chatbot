@@ -1,66 +1,45 @@
-<img src="https://s3.amazonaws.com/kommunicate.io/Header.jpg" />
-
-# [Kommunicate ](https://www.kommunicate.io/?utm_source=github&utm_medium=readme&utm_campaign=web)Live Chat Plugin and Chatbot Integration For Web
+# [Kommunicate ](https://www.kommunicate.io/?utm_source=github&utm_medium=readme&utm_campaign=web)AI Chatbot For Healthcare
 
 
 ## Overview
 
-Kommunicate provides open source live chat Plugin. The Kommunicate plugin is flexible, lightweight and easily integrable. 
-It lets you easily add real-time live chat and in-app messaging in your websites and web apps for customer support. The live chat plugin is equipped with advance messaging options such as real-time chat, sending attachments, sharing location and rich messaging.
+Healthcare chatbot is an AI-powered software application designed to interact with users in the healthcare domain. This chatbot is designed to assist users in retrieving medical information, scheduling appointments, and answering common health-related queries.
 
-Kommunicate has a powerful human + chatbot hybrid platform, where you can integrate Dialogflow and Amazon Lex chatbot without using any code. You can also integrate any third-party or custom chatbot in Kommunciate as well. The automatic bot to human handoff enabled, customizable and rich-messaging equipped chat-widget gives you ample options to make your chatbot more powerful. 
 
-![Chat-widget](https://user-images.githubusercontent.com/32258004/95323958-9dd83c00-08bc-11eb-8744-bbf33140e00d.png)
+<img align="center" src="https://github.com/Kommunicate-io/Healthcare-Chatbot/assets/91717856/696953a7-fcb4-4bf8-a127-36365eb43aff" height="520" />
 
 
 
-## Build a BOT on Kommunicate and integrate it in your Website 
-
-### Kompose
-
-[Kompose](https://dashboard.kommunicate.io/bots/bot-builder) is a Kommunicate’s bot builder that help you in building your own bot, a techie, non-techie, or a person who doesn’t have any idea about chatbots can also build the bot. Anyone can create a chatbot with the Kompose without any assistance.
-
-![Kompose-build](https://user-images.githubusercontent.com/38066371/87525821-a519f000-c6a7-11ea-90d6-97e8fab4d1b3.gif)
+## Build a Healthcare Chatbot on Kommunicate and integrate it in your Website and Mobile Apps
 
 
-
-### Following is the UI to create the BOT
-
-![Kompose](https://user-images.githubusercontent.com/32258004/95324271-1808c080-08bd-11eb-9bed-768e87977648.png)
-
-
-
-
-## Dialogflow Chatbot Integration
-
-Dialogflow is a Google-owned NLP platform to facilitate human-computer interactions such as chatbots, voice bots, etc. 
-
-Kommunicate's Dialogflow integration provides a more versatile, customizable and better chatting experience. Kommunicate chat widget supports all of Dialogflow's features such as Google Assistant, Rich Messaging, etc. On top of that, it is equipped with advanced features such as bot-human handoff, conversation managing dashboard, reporting, and others. 
-
-You can connect your Dialogflow chatbot with Kommunicate in the following 4 simple steps. [Here](https://www.youtube.com/watch?v=ZlrFYRwJxS8) is a video for the same. 
-
-### Step 1: Get your API credentials from Dialogflow
-- Login to Dialogflow console and select your agent from the dropdown in the left panel.
-- Click on the settings button. It will open a setting page for the agent.
-- Inside the general tab search for GOOGLE PROJECTS and click on your service account.
-- After getting redirected to your SERVICE ACCOUNT, create a key in JSON format for your project from the actions section and it will get automatically downloaded.
-
-### Step 2: Create a free Kommunicate account
+### Step 1: Create a free Kommunicate account
 Create a free account on [Kommunicate](https://dashboard.kommunicate.io/signup) and navigate to the [Bots section](https://dashboard.kommunicate.io/bots/bot-integrations). 
 
-### Step 3: Integrate your Dialogflow chatbot with Kommunicate
-- In the Bot integrations section, choose Dialogflow. A popup window will open.
-- Upload your Key file here and proceed.
-- Give a name and image to your chatbot. It will be visible to the users chatting with your chatbot.
-- Enable/Disable chatbot to human handoff. If enabled, it will automatically assign conversations to humans in case the chatbot is not able to answer.
+### Step 2: Create question and answer of the chatbot
 
-### Step 4: Install the chat widget on your website
+
+
+<img align="center" src="https://github.com/Kommunicate-io/Healthcare-Chatbot/blob/master/screenshot-dashboard.kommunicate.io-2023.05.30-14_11_25.png?raw=true" height="520"/>
+
+
+
+
+
+### Step 3: Install the chat widget on your website
 You can install the Kommunicate chat widget on your website by adding a code snippet to your website. More information on how to integrate with your website [here](https://docs.kommunicate.io/docs/web-installation.html). 
 
 > Note: Here's a [sample chatbot](https://docs.kommunicate.io/docs/bot-samples) for you to get started with Dialogflow. 
 
 
 ## Other Features
+**Appointment Scheduling:** Quickly respond to generic user queries using Quick Replies. Easily create and manage templated messages from your dashboard.
+
+**Delivering prescriptions and lab test reports:** Real-time sharing and downloading of medication prescriptions and lab test reports on WhatsApp, Facebook, Instagram, Telegram, and more with Omnichannel Healthcare chatbot.
+
+**Telemedicine:** Telemedicine bot for digital patient consultation, remote patient monitoring, and secured storage of personal data, all using a single platform made specifically for the healthcare industry.
+
+**Reminders and Notifications:** Reduce no-shows for appointment bookings with reminders and notify patients to take medicines at prescribed hours. Keep them informed of new offers and updates.
 
 **Live chat widget:**  Make it easier for your visitors and users to reach you with an instant website and in-app support through chat. The widget is highly customizable. 
 
@@ -80,7 +59,7 @@ You can install the Kommunicate chat widget on your website by adding a code sni
 
 **Smart Rich Messaging:** Leverage rich messages using buttons, cards, carousels, forms or lists to provide an exquisite support chat experience to your customers.
 
-**Quick Replies:** Quickly respond to generic user queries using Quick Replies. Easily create and manage templated messages from your dashboard.
+
 
 ### Example :
 
